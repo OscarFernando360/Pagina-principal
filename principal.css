@@ -1,0 +1,17 @@
+body{
+    margin-left: 100px;
+	margin-right: 100px;
+    text-align: justify;
+}
+
+html{
+    background-color: rgb(139, 180, 120);
+}
+
+.pro{
+    color: rgb(75, 24, 24);
+}
+
+.hsc{
+    color: rgb(66, 10, 10);
+}
